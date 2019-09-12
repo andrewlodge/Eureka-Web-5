@@ -10,7 +10,7 @@ class App extends Component {
           <Container className="container-full">
             <Row>
               <Col>
-                <h2>Test 1/1</h2>
+                <h2>Testing 1/1</h2>
               </Col>
               <Col>
                 <h2>Test 1/2</h2>
